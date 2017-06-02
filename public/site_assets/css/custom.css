@@ -1,0 +1,647 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700');
+body {
+    overflow-x: hidden;
+    font-family: "Open Sans";
+	color:#5b5757;
+}
+
+::-moz-selection {
+    text-shadow: none;
+    background: #0f5296;
+ color:#fff;
+}
+a{
+	text-decoration: none;
+}
+::selection {
+    text-shadow: none;
+    background: #0f5296;
+    color:#fff;
+}
+
+img::selection {
+    background: 0 0;
+}
+
+img::-moz-selection {
+    background: 0 0;
+}
+
+body {
+    webkit-tap-highlight-color: #0f5296;
+}
+
+img.goog-te-gadget-icon {
+    display: none !important;
+}
+#google_translate_element a {
+    text-decoration: none;
+}
+
+/*==========================================================================*
+*     					COMMON STYLING OF PAGES						*
+*===========================================================================*/
+
+.text-muted {
+    color: #8c8b8b;
+}
+
+.text-white {
+    color: #ffffff;
+}
+.text-danger
+{
+	color:#d82113;	
+}
+.text-primary {
+	color:#0f5296;	
+}
+.text-info {
+	color:#099aad;	
+}
+p {
+    font-size: 14px;
+    line-height: 1.75;
+}
+
+p.large {
+    font-size: 24px;
+	margin:10px 0;
+}
+
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    outline: 0;
+}
+
+a {
+    color: #000;
+}
+
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color: #0f5296;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    
+    font-weight: 700;
+}
+
+.img-centered {
+    margin: 0 auto;
+}
+.btn {
+	font-weight:800;
+	transition:all 0.3s ease-in-out 0.0s;
+	-webkit-transition: all 0.3s ease-in-out 0.0s;
+    -moz-transition: all 0.3s ease-in-out 0.0s;
+}
+
+.form-control.no-radius  {
+	border-radius:0;	
+}
+.btn-grey {
+    border-color: #6b6b6b;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    background-color: #6b6b6b;
+}
+
+.btn-grey:hover,
+.btn-grey:focus,
+.btn-grey:active,
+.btn-grey.active,
+.open .dropdown-toggle.btn-grey {
+    border-color: #6b6b6b;
+    color: #fff;
+    background-color: #484747;
+}
+
+.btn-grey:active,
+.btn-grey.active,
+.open .dropdown-toggle.btn-grey {
+    background-image: none;
+}
+.btn-default {
+     color: #fff;
+    background-color: #0f5296;
+	border-color: #0f5296;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+    color: #fff;
+    background-color: #1f7bde;
+}
+
+.btn-primary {
+    border-color: #02aef0;
+    color: #fff;
+    background-color: #02aef0;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    border-color: #0f5296;
+    background-color: #0f5296;
+    color: #fff;
+}
+
+.bg
+{
+	padding:15px;
+	margin:10px 0;	
+}
+
+.bg-blue
+{
+	background-color:#0f5296;	
+	color:#fff;
+}
+.bg-light-blue
+{
+	background-color:#099aad;	
+	color:#eee;
+}
+.bg-light-grey
+{
+	background-color:#ececec;	
+	color:#222;
+}
+.bg-grey
+{
+	background-color:#999;	
+	color:#222;
+}
+
+.white-bg
+{
+	background-color:#fff;	
+}
+.nopadding {
+  padding: 0;
+}
+.padding2 {
+  padding: 0 2px;
+}
+.padding2 .form-control {
+  border-radius: 0 !important;
+}
+.padding30
+{
+	padding:30px;	
+}
+.padding15
+{
+	padding:15px;	
+}
+.padding10
+{
+	padding:10px;	
+}
+.padding5
+{
+	padding:5px;	
+}
+.ptopbot30
+{
+	padding:30px 0;
+}
+.plr-30
+{
+    padding:0 30px;	
+}
+.plr-15
+{
+    padding:0 15px;	
+}
+.mtopbot30
+{
+	margin:30px 0;
+}
+.mtop20
+{
+	margin-top:20px;
+}
+.ptopbot15
+{
+	padding:15px 0;
+}
+.mtopbot15
+{
+	margin:15px 0;
+}
+.nomargin
+{
+	margin:0px;	
+}
+
+/*Custom styling end*/
+
+<!--profile=-->
+
+ 
+    #profile-single-page .sidenav {
+    background-color: #272c33 !important;
+    height: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px; 
+}
+
+
+    @media screen and (max-width: 767px) {
+       #profile-single-page .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      #profile-single-page .row.content {height: auto;} 
+    }
+<!---===================left side bar=============--->
+#profile-single-page li {
+    background: #212121;
+}
+#profile-single-page .user-img {
+    margin: 0px auto;
+    display: table;	
+	padding: 45px;
+}
+#profile-single-page .user-img p {
+    padding-top: 10px;
+}
+#profile-single-page .user-img a:hover {
+    color:#fff;
+	text-decoration:none;
+}
+#profile-single-page .dividr1 {
+  background: #4c5055 none repeat scroll 0 0;
+  border-top: 1px solid #111316;
+  clear: both;
+  display: block;
+  height: 1px;
+  width: 100%;
+}
+#profile-single-page .db-submenu {
+    margin: 10px -10px;
+	text-align: left;
+}
+#profile-single-page .db-submenu a {
+    color: #fff;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+#profile-single-page .db-submenu a:hover, #profile-single-page .db-submenu a:active, #profile-single-page .db-submenu a:focus {
+    background-color: #424a4d !important;
+    color: #fff;
+}
+#profile-single-page .db-submenu a img {
+    width: 30%;
+    float: left;
+    width: 18px;
+    padding-right: 5px;
+    width: 27px;
+    height: 22px;
+}
+#profile-single-page .voting {
+    background-color: #075FC9;
+    float: right;
+    width: 30px;
+    text-align: center;
+    border-radius: 8px;
+    color: #000;
+}
+<!---===end left side bar=====================-->
+
+<!---=========cashback page============-->
+#profile-single-page .bg-grey{
+	background-color:#eeeeee;
+}
+#profile-single-page .bg-white{
+	background-color:#fff;
+}
+#profile-single-page .cashback-tabs {
+    border: 1px solid #dadada;
+}
+#profile-single-page .navigat li {
+    border: 1px solid #dadada;
+    margin: -1px;
+	font-size:13px;
+}
+#profile-single-page .navigat li a:hover, #profile-single-page .navigat li a:active, #profile-single-page .navigat li a:focus {
+    color:#fff !important;
+	background-color: #363b3f !important;
+}
+#profile-single-page .contant-cashback-tab {
+    padding: 15px;
+}
+#profile-single-page .noppding{
+	padding : 0px !important;
+}
+#profile-single-page .padding-nop {
+    padding: 2px !important;
+}
+/*
+#profile-single-page .subtab a {
+    background-color: #2c2f31;
+	color:#fff;
+	font-size:13px;
+}*/
+#profile-single-page .subtab a:hover, #profile-single-page .subtab a:active, #profile-single-page .subtab a:focus {
+    background-color: #2c2f31 !important;
+	color:#fff;
+}
+
+/*
+#profile-single-page .subtab .active a {
+    background-color: #075FC9 !important;
+    border-radius: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+	color:#fff !important;
+}*/
+#profile-single-page .subtab ul {
+    background-color: #eeeeee;
+    padding: 0px;
+}
+#profile-single-page .subtab .tab-content {
+    padding: 1px 10px;
+    background-color: #fff;
+	text-align: left;
+}
+#profile-single-page .subtab {
+    background-color: #eeeeee;
+    padding: 10px;
+}
+#profile-single-page .tab-content {
+    text-align: left;
+}
+#profile-single-page .cashback {
+    padding-bottom: 20px;
+}
+#profile-single-page .subtab .nav-tabs {
+    border: none;
+}
+#profile-single-page .form-tab label {
+    font-size: 15px;
+	padding-top: 3px;
+	float: left;
+}
+#profile-single-page .form-tab input {
+    height: 35px;
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+	border: 1px solid #dbdbdb;
+}
+#profile-single-page .form-tab select {
+    height: 35px;
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+	color: #8a7c95;
+	border: 1px solid #dbdbdb;
+}
+#profile-single-page .form-tab .col-sm-12 {
+    padding: 10px 0px;
+}
+#profile-single-page .rediobtn input {
+    height: 0px;
+    width: auto;
+    float: right;
+}
+#profile-single-page .rediobtn .namegen {
+    font-size: 15px;
+}
+#profile-single-page .rediobtn {
+    padding-top: 20px !important;
+}
+#profile-single-page .form-tab .blue-text a {
+    background-color: #fff !important;
+    color: #0185c6 !important;
+    margin: 14px;
+	text-decoration:none;
+	font-size:13px;
+}
+#profile-single-page .form-tab .blue-text a:hover, #profile-single-page .form-tab #profile-single-page .blue-text a:focus, .form-tab .blue-text a:active {
+    color: #075FC9 !important;
+}
+#profile-single-page .btn-default-green {
+    background: #075FC9 none repeat scroll 0 0;
+    color: #fff;
+    border: 1px solid;
+    padding: 6px 25px;
+    font-size: 15px;
+    border-radius: 6px;
+}
+#profile-single-page .btn-default-green:hover, #profile-single-page .btn-default-green:active, #profile-single-page .btn-default-green:focus {
+    background: #000;
+    color: #fff;
+}
+#profile-single-page .subtab h3 {
+    padding-left: 15px;
+    text-align: left;
+}
+#profile-single-page .missing-cashback {
+    padding-top: 16px;
+}
+#profile-single-page .missing-cashback h3 {
+    padding-left: 15px;
+}
+#profile-single-page .missing-cashback p {
+    padding-left: 15px;
+}
+#profile-single-page .text-red {
+    color: #ff0018;
+}
+#profile-single-page .missing-cashback h4 {
+    padding-left: 15px !important;
+}
+#profile-single-page .uploading input {
+    padding: 0px 0px 35px;
+}
+#profile-single-page .about-cashback-details {
+    border-top: 1px solid #e3e3e3;
+}
+#profile-single-page .about-cashback-details h4 {
+    padding: 15px 0px 0px 0px;
+}
+#profile-single-page .form-inline {
+    padding-bottom: 40px;
+}
+#profile-single-page .earning-page-tag h3 {
+    padding-left: 15px;
+}
+#profile-single-page .blocks-earning .col-sm-3 {
+    border: 1px solid #e3e3e3;
+    text-align: center;
+    padding: 10px 6px;
+    height: 80px;
+}
+#profile-single-page .earn-text {
+    border-radius: 12px;
+    padding: 1px;
+    color: #fff;
+}
+#profile-single-page .bg-orange{
+	background-color:#ffb708;
+}
+#profile-single-page .bg-purple{
+	background-color:#5a66b7;
+}
+#profile-single-page .bg-pink{
+	background-color:#ff5b5b;
+}
+#profile-single-page .bg-green{
+	background-color:#10c469;
+}
+#profile-single-page .blocks-earning p {
+    font-size: 17px;
+}
+#profile-single-page .earning-page-tag {
+    padding-bottom: 10px;
+}
+#profile-single-page .bg-black {
+    background-color: #363b3f !important;
+    padding: 10px 0px;
+    font-size: 13px;
+}
+#profile-single-page .bg-black p {
+    color: #fff;
+}
+#profile-single-page .bg-black select {
+    width: 100%;
+    height: 28px;
+    font-size: 15px;
+}
+#profile-single-page .filter-months {
+    padding-top: 30px;
+	padding-bottom: 10px;
+}
+#profile-single-page .filter-months .heading-sixcols {
+	background-color:#f7f7f7;
+}
+#profile-single-page .tables-block .list {
+    border: 1px solid #e3e3e3;
+    padding: 5px;
+	border-top: 0px;
+}
+  #paymentspage .payment-content {
+    padding: 15px;
+}
+#profile-single-page .rechargeing {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#profile-single-page .payment-content .rechrg-img-banner img {
+    margin: 0px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    height: 200px;
+}
+#profile-single-page .bypaymenting label {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#profile-single-page .bypaymenting h5 {
+    font-size: 16px;
+}
+#profile-single-page .bypaymenting .radioo {
+    margin-left: 20px;
+}
+#profile-single-page .bypaymenting .fa-long-arrow-right {
+    font-size: 25px;
+    color: green;
+    padding: 0px 30px;
+}
+#profile-single-page .wallet {
+    border-top: 1px solid #e3e3e3;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#profile-single-page .hdrimg1 {
+    animation-delay: 0.5s;
+    bottom: 0;
+    height: 234px;
+    left: 0;
+    width: 220px;
+    margin: 0px auto;
+    display: table;
+}
+#profile-single-page .chart-howtocash .mid-img img {
+    padding-top: 50px;
+}
+#profile-single-page .chart-howtocash {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#howcash h3 {
+    text-align: center;
+}
+  #howcash p {
+    text-align: center;
+    font-size: 17px;
+}
+#profile-single-page .stpcrclbx {
+  background: #f99537 none repeat scroll 0 0;
+  border: 0 solid;
+  border-radius: 50%;
+  box-sizing: border-box;
+  height: 100px;
+  margin: 0 auto 15px;
+  padding: 20%;
+  text-align: center;
+  transition: all 0.3s ease-in-out 0s;
+  width: 100px;
+  padding: 16%;
+}
+#profile-single-page .round-chart .stpcrclbx:hover{
+	width:90px;
+	height:90px;
+}
+#profile-single-page .round-chart p {
+    color: #000;
+	font-size: 12px !important;
+}
+#profile-single-page .round-chart .fa {
+    color: #000;
+    background-color: #fff;
+    position: absolute;
+    top: 30%;
+    margin-left: 0px;
+}
+#profile-single-page .round-chart {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+#profile-single-page .cashback .descriptions {
+    width: 100%;
+}
+#profile-single-page .nav-stacked.db-submenu {
+    background: #272c33;
+}
+.sidebar-scroll ul {
+    height: 300px;
+    overflow-y: auto;
+}

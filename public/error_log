@@ -1,0 +1,316 @@
+[21-Nov-2016 13:05:52 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:05:57 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:06:52 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:28 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:28 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:29 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:30 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:31 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:31 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:31 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:31 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[21-Nov-2016 13:07:31 UTC] PHP Fatal error:  Class 'App\Slider' not found in /home2/sellytco/public_html/dealspark/storage/framework/views/356b37c7f76b0188098ebba5f069fc412daa1542.php on line 5
+[07-Dec-2016 12:42:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 95
+[08-Dec-2016 05:30:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 58
+[08-Dec-2016 05:32:06 UTC] PHP Parse error:  syntax error, unexpected 'groupBy' (T_STRING) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 27
+[08-Dec-2016 05:32:07 UTC] PHP Parse error:  syntax error, unexpected 'groupBy' (T_STRING) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 27
+[08-Dec-2016 07:39:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/Admin/ListingsAdminController.php on line 209
+[08-Dec-2016 07:39:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/Admin/ListingsAdminController.php on line 209
+[08-Dec-2016 08:23:01 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/Admin/ListingsAdminController.php on line 228
+[08-Dec-2016 08:24:08 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/Admin/ListingsAdminController.php on line 228
+[08-Dec-2016 10:00:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/Admin/ListingsAdminController.php on line 208
+[08-Dec-2016 10:56:04 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 68
+[08-Dec-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 68
+[17-Dec-2016 05:34:17 UTC] PHP Parse error:  syntax error, unexpected ''lmd_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 492
+[17-Dec-2016 05:34:51 UTC] PHP Parse error:  syntax error, unexpected ''lmd_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 492
+[17-Dec-2016 05:35:21 UTC] PHP Parse error:  syntax error, unexpected ''lmd_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 492
+[17-Dec-2016 05:36:20 UTC] PHP Parse error:  syntax error, unexpected ''lmd_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 492
+[17-Dec-2016 05:36:56 UTC] PHP Parse error:  syntax error, unexpected ''lmd_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 492
+[17-Dec-2016 05:37:04 UTC] PHP Parse error:  syntax error, unexpected ''lmd_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 492
+[17-Dec-2016 10:48:42 UTC] PHP Parse error:  syntax error, unexpected ''Thank You. Your Message has b' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/IndexController.php on line 388
+[19-Dec-2016 06:08:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 116
+[19-Dec-2016 06:08:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 108
+[19-Dec-2016 06:09:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 108
+[19-Dec-2016 06:33:02 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 19
+[19-Dec-2016 07:28:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 118
+[19-Dec-2016 07:29:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 118
+[19-Dec-2016 07:29:29 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 118
+[19-Dec-2016 07:30:21 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 118
+[19-Dec-2016 08:17:25 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 119
+[19-Dec-2016 09:51:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 125
+[19-Dec-2016 10:46:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/sellytco/public_html/dealsperk/app/Listings.php on line 68
+[19-Dec-2016 11:12:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 128
+[19-Dec-2016 11:13:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 128
+[19-Dec-2016 11:14:18 UTC] PHP Parse error:  syntax error, unexpected ',' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 128
+[19-Dec-2016 11:52:20 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 129
+[19-Dec-2016 11:52:24 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 129
+[19-Dec-2016 12:25:35 UTC] PHP Parse error:  syntax error, unexpected ''p' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 52
+[19-Dec-2016 12:26:07 UTC] PHP Parse error:  syntax error, unexpected ''p' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 52
+[19-Dec-2016 12:26:37 UTC] PHP Parse error:  syntax error, unexpected ''p' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 52
+[19-Dec-2016 12:26:37 UTC] PHP Parse error:  syntax error, unexpected ''p' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 52
+[19-Dec-2016 12:32:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 94
+[19-Dec-2016 12:32:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 94
+[19-Dec-2016 12:32:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 94
+[19-Dec-2016 12:32:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 94
+[19-Dec-2016 12:34:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 94
+[19-Dec-2016 12:43:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 143
+[19-Dec-2016 12:43:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 143
+[19-Dec-2016 12:44:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 142
+[19-Dec-2016 12:48:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 145
+[19-Dec-2016 13:07:24 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 140
+[21-Dec-2016 15:05:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/storage/framework/views/54a5bfcf5bb0ce3d5fc99edc7b4fcc93b159a24a.php on line 79
+[23-Dec-2016 11:55:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/storage/framework/views/cbfdfbc1a6dddc15a5e28df681c15bc236fc6b2f.php on line 63
+[23-Dec-2016 11:55:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/storage/framework/views/cbfdfbc1a6dddc15a5e28df681c15bc236fc6b2f.php on line 63
+[24-Dec-2016 10:37:48 UTC] PHP Fatal error:  Class 'App\Rating' not found in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 35
+[24-Dec-2016 11:05:58 UTC] PHP Fatal error:  Call to undefined function parseInt() in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 36
+[26-Dec-2016 05:12:35 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home2/sellytco/public_html/dealsperk/storage/framework/views/286f62087bf01dbf1144251b49380c16a73b763d.php on line 37
+[26-Dec-2016 10:13:50 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\decodejson() in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 121
+[26-Dec-2016 10:13:59 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\decodejson() in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 121
+[27-Dec-2016 06:12:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/dealsperk/storage/framework/views/54a5bfcf5bb0ce3d5fc99edc7b4fcc93b159a24a.php on line 56
+[27-Dec-2016 06:30:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/dealsperk/storage/framework/views/54a5bfcf5bb0ce3d5fc99edc7b4fcc93b159a24a.php on line 56
+[27-Dec-2016 06:31:14 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/dealsperk/storage/framework/views/54a5bfcf5bb0ce3d5fc99edc7b4fcc93b159a24a.php on line 56
+[28-Dec-2016 06:18:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/storage/framework/views/357556b81f722c0f5abcc35edd31abb47f3d1e4a.php on line 15
+[28-Dec-2016 13:20:45 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home2/sellytco/public_html/dealsperk/storage/framework/views/910d1ea31e504c40d070a52b4ddd2d01efdbaa38.php on line 179
+[28-Dec-2016 13:21:45 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home2/sellytco/public_html/dealsperk/storage/framework/views/910d1ea31e504c40d070a52b4ddd2d01efdbaa38.php on line 179
+[29-Dec-2016 11:50:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/dealsperk/storage/framework/views/c111f434c22f7cd037dac15fe460546d297c9cd3.php on line 72
+[30-Dec-2016 06:07:46 UTC] PHP Parse error:  syntax error, unexpected '')); ?>"/>' (T_CONSTANT_ENCAPSED_STRING) in /home2/sellytco/public_html/dealsperk/storage/framework/views/e854f391da852d7632c61013b518d2bb812a5e36.php on line 15
+[30-Dec-2016 06:08:52 UTC] PHP Parse error:  syntax error, unexpected '')); ?>"/>' (T_CONSTANT_ENCAPSED_STRING) in /home2/sellytco/public_html/dealsperk/storage/framework/views/e854f391da852d7632c61013b518d2bb812a5e36.php on line 15
+[30-Dec-2016 06:08:54 UTC] PHP Parse error:  syntax error, unexpected '')); ?>"/>' (T_CONSTANT_ENCAPSED_STRING) in /home2/sellytco/public_html/dealsperk/storage/framework/views/e854f391da852d7632c61013b518d2bb812a5e36.php on line 15
+[30-Dec-2016 06:15:26 UTC] PHP Parse error:  syntax error, unexpected '')); ?>"/>' (T_CONSTANT_ENCAPSED_STRING) in /home2/sellytco/public_html/dealsperk/storage/framework/views/e854f391da852d7632c61013b518d2bb812a5e36.php on line 16
+[31-Dec-2016 07:12:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/dealsperk/storage/framework/views/357556b81f722c0f5abcc35edd31abb47f3d1e4a.php on line 20
+[31-Dec-2016 08:13:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/sellytco/public_html/dealsperk/storage/framework/views/357556b81f722c0f5abcc35edd31abb47f3d1e4a.php on line 20
+[31-Dec-2016 11:51:01 UTC] PHP Fatal error:  Class 'App\user_activity' not found in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 76
+[02-Jan-2017 05:21:27 UTC] PHP Fatal error:  Cannot use App\Useractivity as Useractivity because the name is already in use in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 15
+[02-Jan-2017 05:22:14 UTC] PHP Fatal error:  Cannot use App\Useractivity as Useractivity because the name is already in use in /home2/sellytco/public_html/dealsperk/app/Http/Controllers/CategoriesController.php on line 15
+[02-Jan-2017 07:45:58 UTC] PHP Fatal error:  Class 'App\Comments' not found in /home2/sellytco/public_html/dealsperk/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 869
+[02-Jan-2017 07:50:51 UTC] PHP Fatal error:  Class 'App\Comments' not found in /home2/sellytco/public_html/dealsperk/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 869
+[05-Jan-2017 04:32:14 UTC] PHP Parse error:  syntax error, unexpected '!' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/32546ef872283f53be92c0d19aee9ec802a41bdf.php on line 61
+[05-Jan-2017 04:59:01 UTC] PHP Parse error:  syntax error, unexpected ':' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/b5edecf243ba6bafba63eabc3e4150c67f65e36c.php on line 35
+[06-Jan-2017 05:12:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sellytco/public_html/cashbanzo/app/Http/routes.php on line 137
+[06-Jan-2017 05:14:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sellytco/public_html/cashbanzo/app/Http/routes.php on line 137
+[10-Jan-2017 09:55:36 UTC] PHP Parse error:  syntax error, unexpected '$newsletter' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 541
+[10-Jan-2017 09:56:17 UTC] PHP Parse error:  syntax error, unexpected '$newsletter' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 541
+[10-Jan-2017 09:57:21 UTC] PHP Parse error:  syntax error, unexpected '$newsletter' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 541
+[10-Jan-2017 09:58:06 UTC] PHP Parse error:  syntax error, unexpected '$news' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 541
+[10-Jan-2017 09:58:26 UTC] PHP Parse error:  syntax error, unexpected '$news' (T_VARIABLE), expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 541
+[10-Jan-2017 10:33:50 UTC] PHP Parse error:  syntax error, unexpected ''required|min:3|c' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 200
+[11-Jan-2017 05:26:19 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/Admin/ListingsAdminController.php on line 424
+[11-Jan-2017 07:14:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Stores' not found in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 38
+[11-Jan-2017 07:31:50 UTC] PHP Parse error:  syntax error, unexpected 'stores' (T_STRING) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/f6fc0cc94781179a7eeb4c4c94dd0ac52a4f5a48.php on line 25
+[11-Jan-2017 10:11:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Stores' not found in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 106
+[11-Jan-2017 11:12:07 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/e540699838ca58f3f281c0d703b0cca21fbf31ea.php on line 44
+[13-Jan-2017 05:32:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/f6fc0cc94781179a7eeb4c4c94dd0ac52a4f5a48.php on line 13
+[16-Jan-2017 05:16:41 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 44
+[16-Jan-2017 06:26:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 42
+[16-Jan-2017 07:59:24 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 48
+[16-Jan-2017 08:18:52 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 48
+[16-Jan-2017 08:19:25 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 43
+[16-Jan-2017 08:19:26 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 43
+[16-Jan-2017 09:56:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 42
+[16-Jan-2017 09:56:43 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 42
+[16-Jan-2017 10:21:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 160
+[16-Jan-2017 10:27:56 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 71
+[16-Jan-2017 10:27:58 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 71
+[16-Jan-2017 10:46:06 UTC] PHP Fatal error:  Cannot redeclare App\Listings::scopeSearchByFilter() in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 73
+[16-Jan-2017 13:05:59 UTC] PHP Fatal error:  Class 'App\Listings' not found in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 172
+[17-Jan-2017 07:54:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 41
+[17-Jan-2017 10:53:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/9deff38e355d88585eb44c551c2799f2cae6f39d.php on line 43
+[18-Jan-2017 07:36:12 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting '&' or variable (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 151
+[18-Jan-2017 07:36:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/app/Listings.php on line 80
+[19-Jan-2017 08:22:13 UTC] PHP Warning:  Unterminated comment starting line 3 in /home2/sellytco/public_html/cashbanzo/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 160
+[19-Jan-2017 13:09:23 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/e4e54700ff2d5a746cb259b583b555236783e3d9.php on line 24
+[19-Jan-2017 13:09:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/e4e54700ff2d5a746cb259b583b555236783e3d9.php on line 24
+[19-Jan-2017 13:10:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/e4e54700ff2d5a746cb259b583b555236783e3d9.php on line 24
+[19-Jan-2017 13:10:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/storage/framework/views/e4e54700ff2d5a746cb259b583b555236783e3d9.php on line 84
+[31-Jan-2017 06:13:13 UTC] PHP Fatal error:  Class 'App\Users' not found in /home2/sellytco/public_html/cashbanzo/storage/framework/views/57245d5b5cbbf42ebe5d55f319f585b872148575.php on line 48
+[31-Jan-2017 12:25:32 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:25:49 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:25:57 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:26:03 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:27:25 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:28:09 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:28:15 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:28:17 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:31:05 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:31:08 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:31:12 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:31:16 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:31:59 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:32:01 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:32:03 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:32:08 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:32:10 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:33:23 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:33:25 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:37:18 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:40:08 UTC] PHP Parse error:  syntax error, unexpected 'App' (T_STRING) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[31-Jan-2017 12:42:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/SearchController.php on line 1
+[03-Feb-2017 10:03:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/7adf78ec75057e8facfc1656f24703e015fe9956.php on line 222
+[03-Feb-2017 10:51:27 UTC] PHP Parse error:  syntax error, unexpected ''fl' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 350
+[04-Feb-2017 10:09:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/Admin/UsersController.php on line 195
+[04-Feb-2017 10:11:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/Admin/UsersController.php on line 195
+[04-Feb-2017 11:03:53 UTC] PHP Fatal error:  Call to undefined function get() in /home2/sellytco/public_html/cashbanzo/storage/framework/views/9910949738454c726dae688b21eb2cc75ef072b8.php on line 352
+[04-Feb-2017 11:03:55 UTC] PHP Fatal error:  Call to undefined function get() in /home2/sellytco/public_html/cashbanzo/storage/framework/views/9910949738454c726dae688b21eb2cc75ef072b8.php on line 352
+[04-Feb-2017 13:07:33 UTC] PHP Parse error:  syntax error, unexpected 'functi' (T_STRING), expecting variable (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 129
+[04-Feb-2017 14:04:11 UTC] PHP Parse error:  syntax error, unexpected '$listingid' (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/e4e54700ff2d5a746cb259b583b555236783e3d9.php on line 1
+[10-Feb-2017 08:12:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/storage/framework/views/57245d5b5cbbf42ebe5d55f319f585b872148575.php on line 53
+[11-Feb-2017 05:40:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/storage/framework/views/7adf78ec75057e8facfc1656f24703e015fe9956.php on line 540
+[16-Feb-2017 11:11:32 UTC] PHP Warning:  Unterminated comment starting line 278 in /home2/sellytco/public_html/cashbanzo/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 160
+[16-Feb-2017 11:11:32 UTC] PHP Warning:  Unterminated comment starting line 277 in /home2/sellytco/public_html/cashbanzo/storage/framework/views/f6fc0cc94781179a7eeb4c4c94dd0ac52a4f5a48.php on line 277
+[16-Feb-2017 11:11:32 UTC] PHP Warning:  Unterminated comment starting line 278 in /home2/sellytco/public_html/cashbanzo/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 160
+[16-Feb-2017 11:11:32 UTC] PHP Warning:  Unterminated comment starting line 277 in /home2/sellytco/public_html/cashbanzo/storage/framework/views/f6fc0cc94781179a7eeb4c4c94dd0ac52a4f5a48.php on line 277
+[16-Feb-2017 11:25:45 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 146
+[16-Feb-2017 11:25:46 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 146
+[16-Feb-2017 11:25:46 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 146
+[16-Feb-2017 11:25:48 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 146
+[16-Feb-2017 11:32:14 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:14 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:14 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:14 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:15 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:16 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:17 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:17 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:18 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:19 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:21 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:25 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:32:25 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 11:34:51 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 167
+[16-Feb-2017 12:45:28 UTC] PHP Parse error:  syntax error, unexpected ''mobile'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 596
+[17-Feb-2017 05:45:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:34 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 05:45:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 165
+[17-Feb-2017 10:29:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 722
+[17-Feb-2017 10:29:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 573
+[17-Feb-2017 10:32:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 561
+[17-Feb-2017 11:10:39 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 17
+[17-Feb-2017 11:10:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 130
+[17-Feb-2017 11:10:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 130
+[17-Feb-2017 11:29:33 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\save() in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 276
+[17-Feb-2017 13:22:59 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 303
+[17-Feb-2017 13:23:02 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 303
+[17-Feb-2017 14:45:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/storage/framework/views/43617412efaf59d93b602cae2a50343018bb1c40.php on line 1
+[18-Feb-2017 07:49:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 111
+[18-Feb-2017 07:49:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/sellytco/public_html/cashbanzo/storage/framework/views/681b3b4ccff50127c17492ca8981fbcefff16a16.php on line 111
+[18-Feb-2017 08:06:32 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/05eba0bad7dcf0dfa9583be51dee6a00c30b1580.php on line 115
+[18-Feb-2017 08:06:42 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/05eba0bad7dcf0dfa9583be51dee6a00c30b1580.php on line 115
+[18-Feb-2017 08:07:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home2/sellytco/public_html/cashbanzo/storage/framework/views/05eba0bad7dcf0dfa9583be51dee6a00c30b1580.php on line 115
+[18-Feb-2017 13:23:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/IndexController.php on line 849
+[20-Feb-2017 09:49:12 UTC] PHP Parse error:  syntax error, unexpected '$cat_id' (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 102
+[20-Feb-2017 09:49:13 UTC] PHP Parse error:  syntax error, unexpected '$cat_id' (T_VARIABLE) in /home2/sellytco/public_html/cashbanzo/app/Http/Controllers/CategoriesController.php on line 102
+[20-Feb-2017 12:49:15 UTC] PHP Parse error:  syntax error, unexpected ''retailers/addretailer/{id' (T_ENCAPSED_AND_WHITESPACE) in /home2/sellytco/public_html/cashbanzo/app/Http/routes.php on line 88
+[23-Feb-2017 08:28:54 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 27262976 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/e8031e4f9462aab1441a0e72b7e9448884ac1479.php on line 18
+[24-Feb-2017 08:02:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 238
+[24-Feb-2017 08:02:35 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 238
+[24-Feb-2017 08:04:44 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 238
+[24-Feb-2017 08:05:43 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 238
+[24-Feb-2017 08:06:52 UTC] PHP Parse error:  syntax error, unexpected ''merchant_name'];' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 566
+[24-Feb-2017 08:09:12 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Session' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 238
+[24-Feb-2017 08:15:45 UTC] PHP Parse error:  syntax error, unexpected ''Content' (T_ENCAPSED_AND_WHITESPACE) in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 324
+[24-Feb-2017 08:18:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 714
+[24-Feb-2017 08:23:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 915
+[24-Feb-2017 10:06:29 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 17301504 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/d697072bc8e39510ba3ed8162b79e7f333306886.php on line 90
+[24-Feb-2017 10:06:45 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 17301504 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/d697072bc8e39510ba3ed8162b79e7f333306886.php on line 90
+[24-Feb-2017 10:06:59 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 17301504 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/d697072bc8e39510ba3ed8162b79e7f333306886.php on line 90
+[24-Feb-2017 10:19:46 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 17301504 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/d697072bc8e39510ba3ed8162b79e7f333306886.php on line 90
+[24-Feb-2017 10:21:40 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 16231412 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 586
+[24-Feb-2017 10:21:54 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 13662812 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 586
+[24-Feb-2017 10:22:48 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 16222544 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 586
+[24-Feb-2017 10:23:05 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 9125231 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 586
+[24-Feb-2017 10:23:34 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 10335170 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 586
+[24-Feb-2017 10:23:37 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 10335170 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 586
+[24-Feb-2017 10:24:59 UTC] PHP Fatal error:  Call to a member function lastPage() on array in /home/wavedemo/cashbenzo.com/storage/framework/views/958dae107fa5e59354f4470368517e492fbbe04e.php on line 1
+[24-Feb-2017 10:25:03 UTC] PHP Fatal error:  Call to a member function lastPage() on array in /home/wavedemo/cashbenzo.com/storage/framework/views/958dae107fa5e59354f4470368517e492fbbe04e.php on line 1
+[24-Feb-2017 10:30:49 UTC] PHP Fatal error:  Call to a member function lastPage() on array in /home/wavedemo/cashbenzo.com/storage/framework/views/958dae107fa5e59354f4470368517e492fbbe04e.php on line 1
+[24-Feb-2017 10:30:50 UTC] PHP Fatal error:  Call to a member function lastPage() on array in /home/wavedemo/cashbenzo.com/storage/framework/views/958dae107fa5e59354f4470368517e492fbbe04e.php on line 1
+[24-Feb-2017 10:34:45 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 12507778 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[24-Feb-2017 10:34:48 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 12507778 bytes) in /home/wavedemo/cashbenzo.com/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[24-Feb-2017 10:39:39 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[24-Feb-2017 10:44:13 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[24-Feb-2017 10:45:58 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[24-Feb-2017 10:48:17 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[24-Feb-2017 10:49:36 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[24-Feb-2017 12:17:57 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 88866816 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/afb18a2a35e9dbbcd4f2c097652c38658aad5bd3.php on line 28
+[24-Feb-2017 12:27:05 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 88866816 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/afb18a2a35e9dbbcd4f2c097652c38658aad5bd3.php on line 28
+[24-Feb-2017 12:27:35 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 89128960 bytes) in /home/wavedemo/cashbenzo.com/storage/framework/views/afb18a2a35e9dbbcd4f2c097652c38658aad5bd3.php on line 29
+[24-Feb-2017 12:30:45 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wavedemo/cashbenzo.com/storage/framework/views/afb18a2a35e9dbbcd4f2c097652c38658aad5bd3.php on line 27
+[27-Feb-2017 05:11:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 442
+[27-Feb-2017 05:11:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 874
+[27-Feb-2017 06:56:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/storage/framework/views/baa652604d47114ee6f39260a22c36427f3129ee.php on line 645
+[27-Feb-2017 07:25:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/storage/framework/views/baa652604d47114ee6f39260a22c36427f3129ee.php on line 453
+[27-Feb-2017 10:21:20 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/wavedemo/cashbenzo.com/storage/framework/views/00e8d0f80706affb9494a7c158c4d2a316ffcd78.php on line 55
+[27-Feb-2017 10:21:49 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/wavedemo/cashbenzo.com/storage/framework/views/00e8d0f80706affb9494a7c158c4d2a316ffcd78.php on line 55
+[27-Feb-2017 10:22:33 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/wavedemo/cashbenzo.com/storage/framework/views/00e8d0f80706affb9494a7c158c4d2a316ffcd78.php on line 55
+[27-Feb-2017 10:23:09 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/wavedemo/cashbenzo.com/storage/framework/views/00e8d0f80706affb9494a7c158c4d2a316ffcd78.php on line 47
+[27-Feb-2017 10:27:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/storage/framework/views/00e8d0f80706affb9494a7c158c4d2a316ffcd78.php on line 97
+[27-Feb-2017 10:27:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/storage/framework/views/00e8d0f80706affb9494a7c158c4d2a316ffcd78.php on line 97
+[27-Feb-2017 10:58:43 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[27-Feb-2017 10:59:33 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[27-Feb-2017 11:00:26 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[27-Feb-2017 11:05:27 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[27-Feb-2017 11:05:52 UTC] PHP Fatal error:  Allowed memory size of 102760448 bytes exhausted (tried to allocate 15728640 bytes) in /home/wavedemo/cashbenzo.com/vendor/symfony/debug/ExceptionHandler.php on line 390
+[28-Feb-2017 06:10:46 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/wavedemo/cashbenzo.com/storage/framework/views/6a324ae87a4f0f335b0ec1a73ee191a85ec02c63.php on line 61
+[28-Feb-2017 06:48:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\UserCashback' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 704
+[28-Feb-2017 07:03:37 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 708
+[28-Feb-2017 07:04:24 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 708
+[28-Feb-2017 07:05:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 938
+[28-Feb-2017 07:05:08 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/wavedemo/cashbenzo.com/storage/framework/views/c8760f98d50b8dc7d954dc0516c948b2f38233c4.php on line 40
+[28-Feb-2017 11:26:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 576
+[28-Feb-2017 11:33:23 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\UserData() in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 582
+[28-Feb-2017 11:34:03 UTC] PHP Fatal error:  Call to undefined method Illuminate\View\Engines\CompilerEngine::UserData() in /home/wavedemo/cashbenzo.com/storage/framework/views/41d106f72686b9b04cc954cf41f7f88b68acdcc3.php on line 34
+[28-Feb-2017 11:34:12 UTC] PHP Fatal error:  Call to undefined method Illuminate\View\Engines\CompilerEngine::UserData() in /home/wavedemo/cashbenzo.com/storage/framework/views/41d106f72686b9b04cc954cf41f7f88b68acdcc3.php on line 34
+[28-Feb-2017 11:35:27 UTC] PHP Fatal error:  Class 'Index' not found in /home/wavedemo/cashbenzo.com/storage/framework/views/41d106f72686b9b04cc954cf41f7f88b68acdcc3.php on line 34
+[28-Feb-2017 11:38:22 UTC] PHP Fatal error:  Call to undefined method Illuminate\View\Engines\CompilerEngine::UserData() in /home/wavedemo/cashbenzo.com/storage/framework/views/41d106f72686b9b04cc954cf41f7f88b68acdcc3.php on line 34
+[28-Feb-2017 12:40:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Support' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 606
+[28-Feb-2017 13:22:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 620
+[28-Feb-2017 13:22:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 1054
+[02-Mar-2017 08:51:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Listings' not found in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 516
+[02-Mar-2017 10:03:36 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\UsersController::addnew() in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 538
+[02-Mar-2017 10:03:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/routes.php on line 61
+[02-Mar-2017 10:04:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\UsersController::addnew() in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 538
+[02-Mar-2017 10:05:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\UsersController::addnew() in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 538
+[02-Mar-2017 10:22:24 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 532
+[02-Mar-2017 10:22:30 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 532
+[02-Mar-2017 10:22:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/wavedemo/cashbenzo.com/app/Http/Controllers/Admin/UsersController.php on line 532
+[02-Mar-2017 11:33:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wavedemo/cashbenzo.com/app/Http/Controllers/IndexController.php on line 543
+[07-Apr-2017 12:11:40 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Admin\prin_r() in /home/cashbenzo/public_html/app/Http/Controllers/Admin/ListingsAdminController.php on line 741
+[11-Apr-2017 07:26:56 UTC] PHP Fatal error:  Call to a member function render() on array in /home/cashbenzo/public_html/storage/framework/views/6b1d4fa49cb06bf49283ebcbfe08dc469e7023ec.php on line 56
+[11-Apr-2017 07:28:11 UTC] PHP Fatal error:  Call to a member function render() on array in /home/cashbenzo/public_html/storage/framework/views/6b1d4fa49cb06bf49283ebcbfe08dc469e7023ec.php on line 59
+[12-Apr-2017 07:01:18 UTC] PHP Fatal error:  Call to undefined function sstr_replace() in /home/cashbenzo/public_html/storage/framework/views/871ca3679d6b3fbf05b6cb509e11f78c5ea6682f.php on line 71
+[12-Apr-2017 07:04:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cashbenzo/public_html/storage/framework/views/871ca3679d6b3fbf05b6cb509e11f78c5ea6682f.php on line 71
